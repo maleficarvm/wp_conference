@@ -112,19 +112,19 @@ function the_conference_banner(){
                             <div id="bannerClock" class="banner-countdown wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
                                 <div class="countdown-wrap">
                                     <span class="days"></span>
-                                    <div class="smalltext"><?php esc_html_e( 'Days', 'the-conference' ); ?></div>
+                                    <div class="smalltext"><?php esc_html_e( 'Дни', 'the-conference' ); ?></div>
                                 </div>
                                 <div class="countdown-wrap">
                                     <span class="hours"></span>
-                                    <div class="smalltext"><?php esc_html_e( 'Hours', 'the-conference' ); ?></div>
+                                    <div class="smalltext"><?php esc_html_e( 'Часы', 'the-conference' ); ?></div>
                                 </div>
                                 <div class="countdown-wrap">
                                     <span class="minutes"></span>
-                                    <div class="smalltext"><?php esc_html_e( 'Minutes', 'the-conference' ); ?></div>
+                                    <div class="smalltext"><?php esc_html_e( 'Минуты', 'the-conference' ); ?></div>
                                 </div>
                                 <div class="countdown-wrap">
                                     <span class="seconds"></span>
-                                    <div class="smalltext"><?php esc_html_e( 'Seconds', 'the-conference' ); ?></div>
+                                    <div class="smalltext"><?php esc_html_e( 'Секунды', 'the-conference' ); ?></div>
                                 </div>
                             </div>
                         <?php

@@ -1204,19 +1204,19 @@ iframe {
 	}
 
 	section[class*="-section"] .widget_text {
-		text-align: center;
+		text-align: justify;
 		width: 100%;
 	}
 	section[class*="-section"] .widget_text .widget-title {
 		font-size: 2.223em;
-		max-width: 800px;
+		max-width: 458px;
 		margin: 0 auto 15px auto;
 	}
 	section[class*="-section"] .widget_text .textwidget {
 		font-size: 1.112em;
 		font-weight: 400;
 		color: #353535;
-		max-width: 800px;
+		max-width: 1300px;
 		margin-left: auto;
 		margin-right: auto;
 	}
