@@ -8,7 +8,6 @@
  *
  * @package The Conference
  */
-    
     /**
      * After Content
      * 
@@ -24,8 +23,18 @@
      * @hooked the_conference_footer_bottom - 40
      * @hooked the_conference_footer_end    - 50
     */
-    do_action( 'the_conference_footer' );
-    
+    //do_action( 'the_conference_footer' );
+    ?>
+<footer id="colophon" class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+    <div class="bottom-footer">
+        <div class="container">
+            <div class="site-info">
+                TADA
+            </div>
+        </div>
+    </div>
+</footer>
+<?php
     /**
      * After Footer
      * 
@@ -34,6 +43,5 @@
     do_action( 'the_conference_after_footer' );
 
     wp_footer(); ?>
-
 </body>
 </html>
