@@ -2545,7 +2545,7 @@ msgstr "Подтверждающее сообщение"
 #: includes/admin/importers/class-contact-form-7.php:123
 #: includes/admin/importers/class-ninja-forms.php:140
 msgid "Thanks for contacting us! We will be in touch with you shortly."
-msgstr "Спасибо, что написали нам! Мы скоро свяжемся с вами."
+msgstr "Спасибо за регистрацию!"
 
 #: includes/admin/builder/panels/class-settings.php:210
 msgid "Automatically scroll to the confirmation message"

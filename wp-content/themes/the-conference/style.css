@@ -5781,7 +5781,7 @@ RESPONSIVE STYLESHEET
 
 @media screen and (max-width: 767px) {
 	.container, 
-	.blossomthemes-email-newsletter-wrapper .newsletter-wrap-inner {		
+	.blossomthemes-email-newsletter-wrapper .newsletter-wrap-inner {
 		max-width: 480px;
 	}
 
@@ -5790,6 +5790,15 @@ RESPONSIVE STYLESHEET
 	section.schedule-section, 
 	.banner-caption.newsletter-banner .container {
 		max-width: 540px;
+	}
+
+	.banner-caption .banner-title {
+		margin: 250px auto;
+		color: #c1a365;
+		font-size: 2.1667em;
+		font-weight: 700;
+		line-height: 1.2;
+		width: 100%;
 	}
 
 	body.custom-background .site {
@@ -5827,7 +5836,7 @@ RESPONSIVE STYLESHEET
 		height: auto;
 	}
 	.site-banner .item img {
-		position: static;
+		position: absolute;
 	}
 	.banner-caption {
 		/*position: static;*/

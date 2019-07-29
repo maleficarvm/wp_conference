@@ -25,16 +25,16 @@
     */
     //do_action( 'the_conference_footer' );
     ?>
-<footer id="colophon" class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
-    <div class="bottom-footer">
-        <div class="container">
-            <div class="site-info">
-                TADA
+        <footer id="colophon" class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+            <div class="bottom-footer">
+                <div class="container">
+                    <div class="site-info">
+                        © ФГБУ «ЦНИГРИ», 2019 | Powered by Wordpress
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
-</footer>
-<?php
+        </footer>
+    <?php
     /**
      * After Footer
      * 
