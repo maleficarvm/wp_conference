@@ -29,7 +29,7 @@
             <div class="bottom-footer">
                 <div class="container">
                     <div class="site-info">
-                        © ФГБУ «ЦНИГРИ», 2019 | Powered by Wordpress
+                        © ФГБУ «ЦНИГРИ», 2019 | Powered by WordPress
                     </div>
                 </div>
             </div>
